@@ -156,3 +156,17 @@ a{
     background-color: grey;
     border: none;
 }
+.stext{
+    position: relative;
+    top: 20px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    background-color: azure;
+    cursor: pointer;
+
+}
+.stext:hover{
+    background-color: grey;
+    border: none;
+}
